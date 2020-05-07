@@ -1,0 +1,12 @@
+{
+  "name": "bmi-calc",
+  "version": "1.0.0",
+  "description": "A simple BMI calculator Web Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kartik Derasari",
+  "license": "ISC"
+}
